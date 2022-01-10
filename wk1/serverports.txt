@@ -1,0 +1,18 @@
+Question 1: What is the defenition of server port?
+
+Answer: A server port is a port number that is used to find a network for both service and host to connect to.
+
+
+Question 2: What is server port range?
+
+Answer: A range of port numbers that specify the ports that are being used to contact
+
+
+Question 3: How many bits does number above represent?
+
+Answer: 16-bit
+
+
+Question 4: State 10 common server ports
+
+Answer: 80, 443, 21, 22, 110, 53, 143, 25, 2095
